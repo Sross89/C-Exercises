@@ -1,0 +1,11 @@
+C:\Users\Simon\Documents\C# Practice\Find Numbers\Find Numbers\obj\Debug\netcoreapp2.1\Find Numbers.csprojAssemblyReference.cache
+C:\Users\Simon\Documents\C# Practice\Find Numbers\Find Numbers\obj\Debug\netcoreapp2.1\Find Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Simon\Documents\C# Practice\Find Numbers\Find Numbers\obj\Debug\netcoreapp2.1\Find Numbers.AssemblyInfoInputs.cache
+C:\Users\Simon\Documents\C# Practice\Find Numbers\Find Numbers\obj\Debug\netcoreapp2.1\Find Numbers.AssemblyInfo.cs
+C:\Users\Simon\Documents\C# Practice\Find Numbers\Find Numbers\bin\Debug\netcoreapp2.1\Find Numbers.deps.json
+C:\Users\Simon\Documents\C# Practice\Find Numbers\Find Numbers\bin\Debug\netcoreapp2.1\Find Numbers.runtimeconfig.json
+C:\Users\Simon\Documents\C# Practice\Find Numbers\Find Numbers\bin\Debug\netcoreapp2.1\Find Numbers.runtimeconfig.dev.json
+C:\Users\Simon\Documents\C# Practice\Find Numbers\Find Numbers\bin\Debug\netcoreapp2.1\Find Numbers.dll
+C:\Users\Simon\Documents\C# Practice\Find Numbers\Find Numbers\bin\Debug\netcoreapp2.1\Find Numbers.pdb
+C:\Users\Simon\Documents\C# Practice\Find Numbers\Find Numbers\obj\Debug\netcoreapp2.1\Find Numbers.dll
+C:\Users\Simon\Documents\C# Practice\Find Numbers\Find Numbers\obj\Debug\netcoreapp2.1\Find Numbers.pdb
