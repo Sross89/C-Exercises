@@ -1,0 +1,10 @@
+C:\Users\Simon\Documents\C# Practice\Alphabet Soup\Alphabet Soup\bin\Debug\netcoreapp2.1\Alphabet Soup.deps.json
+C:\Users\Simon\Documents\C# Practice\Alphabet Soup\Alphabet Soup\bin\Debug\netcoreapp2.1\Alphabet Soup.runtimeconfig.json
+C:\Users\Simon\Documents\C# Practice\Alphabet Soup\Alphabet Soup\bin\Debug\netcoreapp2.1\Alphabet Soup.runtimeconfig.dev.json
+C:\Users\Simon\Documents\C# Practice\Alphabet Soup\Alphabet Soup\bin\Debug\netcoreapp2.1\Alphabet Soup.dll
+C:\Users\Simon\Documents\C# Practice\Alphabet Soup\Alphabet Soup\bin\Debug\netcoreapp2.1\Alphabet Soup.pdb
+C:\Users\Simon\Documents\C# Practice\Alphabet Soup\Alphabet Soup\obj\Debug\netcoreapp2.1\Alphabet Soup.csproj.CoreCompileInputs.cache
+C:\Users\Simon\Documents\C# Practice\Alphabet Soup\Alphabet Soup\obj\Debug\netcoreapp2.1\Alphabet Soup.AssemblyInfoInputs.cache
+C:\Users\Simon\Documents\C# Practice\Alphabet Soup\Alphabet Soup\obj\Debug\netcoreapp2.1\Alphabet Soup.AssemblyInfo.cs
+C:\Users\Simon\Documents\C# Practice\Alphabet Soup\Alphabet Soup\obj\Debug\netcoreapp2.1\Alphabet Soup.dll
+C:\Users\Simon\Documents\C# Practice\Alphabet Soup\Alphabet Soup\obj\Debug\netcoreapp2.1\Alphabet Soup.pdb
