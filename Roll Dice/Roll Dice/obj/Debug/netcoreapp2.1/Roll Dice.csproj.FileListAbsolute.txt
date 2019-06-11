@@ -1,0 +1,11 @@
+C:\Users\Simon\Documents\C# Practice\Roll Dice\Roll Dice\bin\Debug\netcoreapp2.1\Roll Dice.deps.json
+C:\Users\Simon\Documents\C# Practice\Roll Dice\Roll Dice\bin\Debug\netcoreapp2.1\Roll Dice.runtimeconfig.json
+C:\Users\Simon\Documents\C# Practice\Roll Dice\Roll Dice\bin\Debug\netcoreapp2.1\Roll Dice.runtimeconfig.dev.json
+C:\Users\Simon\Documents\C# Practice\Roll Dice\Roll Dice\bin\Debug\netcoreapp2.1\Roll Dice.dll
+C:\Users\Simon\Documents\C# Practice\Roll Dice\Roll Dice\bin\Debug\netcoreapp2.1\Roll Dice.pdb
+C:\Users\Simon\Documents\C# Practice\Roll Dice\Roll Dice\obj\Debug\netcoreapp2.1\Roll Dice.csprojAssemblyReference.cache
+C:\Users\Simon\Documents\C# Practice\Roll Dice\Roll Dice\obj\Debug\netcoreapp2.1\Roll Dice.csproj.CoreCompileInputs.cache
+C:\Users\Simon\Documents\C# Practice\Roll Dice\Roll Dice\obj\Debug\netcoreapp2.1\Roll Dice.AssemblyInfoInputs.cache
+C:\Users\Simon\Documents\C# Practice\Roll Dice\Roll Dice\obj\Debug\netcoreapp2.1\Roll Dice.AssemblyInfo.cs
+C:\Users\Simon\Documents\C# Practice\Roll Dice\Roll Dice\obj\Debug\netcoreapp2.1\Roll Dice.dll
+C:\Users\Simon\Documents\C# Practice\Roll Dice\Roll Dice\obj\Debug\netcoreapp2.1\Roll Dice.pdb
